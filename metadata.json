@@ -1,0 +1,5 @@
+{
+  "name": "Delia",
+  "description": "An interactive application that generates and visualizes process graphs from user descriptions using the Gemini API. The graph is rendered with D3.js and React for a dynamic and aesthetically pleasing experience.",
+  "requestFramePermissions": []
+}
